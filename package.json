@@ -4,6 +4,7 @@
   "description": "",
   "main": "api_rest.js",
   "scripts": {
+    "start": "node api_rest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
